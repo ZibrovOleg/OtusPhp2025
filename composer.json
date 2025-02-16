@@ -15,5 +15,6 @@
         "psr-4": {
             "ZibrovOleg\\OtusPhp2025Hw4\\": "src/"
         }
-    }
+    },
+    "license": "MIT"
 }
