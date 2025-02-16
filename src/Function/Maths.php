@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Zibrov\OtusPhp2025Hw4\ZibrovOleg\Function;
+namespace ZibrovOleg\OtusPhp2025Hw4\Function;
 
 class Maths
 {
